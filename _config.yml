@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: acapp909@gmail.com
 copyright_name: Andrew Capp
 description: > # this means to ignore newlines until "baseurl:"
-  Transitioning from accounting to IT
+  Transitioning from Accounting to IT
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ACAPP-dev
