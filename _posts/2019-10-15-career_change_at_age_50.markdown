@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Career Change at Age 50?"
-date:       2019-10-15 20:09:13 +0000
+date:       2019-10-15 16:09:14 -0400
 permalink:  career_change_at_age_50
 ---
 
@@ -18,7 +18,7 @@ I recently retired from an excellent hotel accounting career spanning almost 31 
 
 5. As for timing, I felt recently that it was the right time for me to make this change.  I'd been feeling burnt out at work for some time, and this year has been particularly busy at work.  As a result I'd been unable to take more than one or two days off at a time and had to cancel a vacation planned for July.  In addition, I was looking at being too busy the remainder of the year to take significant time off.  Not a good combination when you are already feeling burnt out!
 
-Honestly, the final decision to retire was quite easy because all the pieces were in place and it was something I've dreamed about for quite some time.  So far, a little more than one month in, I feel like the decision was a good one.  I've been able to travel some, visit my grandkids, and enjoy the freedom to pursue my dream of a career in IT / coding.
+Honestly, the final decision to retire was quite easy because all the pieces were in place and it was something I've dreamed about for quite some time.  So far, a little more than one month in, I feel like the decision was a good one.  I've been able to travel some, spend time with my parents, sister, daughters, and grandkids, and enjoy the freedom to pursue my dream of a career in IT / coding.
 
 I think at this point, my challenges are getting through the Flatiron program and after that finding a job in IT.  I've heard that it can be difficult to compete with younger "IT experts" in the job market.  I'm hoping to prove this wrong!
 
