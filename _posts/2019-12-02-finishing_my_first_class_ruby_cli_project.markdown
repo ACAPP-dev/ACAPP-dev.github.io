@@ -28,7 +28,7 @@ I chose the second option to reduce the number of API requests and so the listin
 
 The rest of the coding went relatively smoothly, and I was pleasantly surprised that I made consistent progress coding the menus, data displays, classes, and class instances.  It was great to be familiar enough with Ruby that I could accomplish what I wanted without excessive reviewing of documentation or fixing of bugs.  I will say that coding the error catching was more complicated than expected due to the requirements of the domain name syntax (e.g. 'pets.com').
 
-In the future I would like to add use of an API with Flippa.com to search for ecommerce or websites for sale that may be related to a domain search.
+In the future I would like to add use of an API with Flippa.com to search for ecommerce websites for sale that may be related to a domain search.
 
 There are many requirements to complete this project including a 30 minute recorded coding session, a recorded project summary, and a formal project review.  At this point everything is complete except for my project submission and the formal project review.  I'm a bit nervous about the project review and I need to work on my Ruby knowledge some more this week for sure!
 
