@@ -18,7 +18,7 @@ I chose to use an API with the [GoDaddy.com](http://godaddy.com) website which p
 
 I used a recommended Ruby GEM [HTTParty](https://rubygems.org/gems/httparty/versions/0.13.7) to help with coding the API interface.   It was quite a challenge to figure out the syntax of the API requests due in part to the need for a key and secret key.  GoDaddy uses a [Curl](https://idratherbewriting.com/learnapidoc/docapis_understand_curl.html) format for the API requests and I found limited documentation on how to translate the Curl into the HTTParty format.  This took several hours of trial and error and was definitely the most challenging part of the project for me.  However, once I got this working properly, I did feel a strong sense of accomplishment!
 
-The second biggest challenge for me was the fact that GoDaddy provides a nice list of suggested domains based on a keywork, but it is a list of names only.  There is no availability or pricing included with the data.  In order to get this detail I had two options: 
+The second biggest challenge for me was the fact that GoDaddy provides a nice list of suggested domains based on a keyword, but it is a list of names only.  There is no availability or pricing included with the data.  In order to get this detail I had two options: 
 
 1. Make a separate API call to GoDaddy for an individual domain when requested.
 
